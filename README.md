@@ -7,4 +7,12 @@ There are 3 categories of ML :
   - Unsupervised learning
   - Reinforcement learning
 
+Let's see one by one these categories :
+
+  ## Supervised learning
+  
+  ## Unsupervised learning
+  
+  ## Reinforcement learning
+
 # Environment installation
